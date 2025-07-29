@@ -30,6 +30,8 @@
 	sudo vim /etc/ssh/sshd_config
 ### Now go to the following line and make it `no` to `yes` 
 	KbdInteractiveAuthentication no
+### After changing
+	KbdInteractiveAuthentication yes
 ### Now press `esc` then type `:wq` to exit vim
 ### Run the following commands:
 	sudo systemctl daemon-reload
