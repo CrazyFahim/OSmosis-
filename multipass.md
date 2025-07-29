@@ -3,7 +3,7 @@
 ### For info:
 	multipass info
 ### Network check:
-	multipass network
+	multipass networks
 ### (remember the network name in output -> `<network-name>` )
 	
 ### Want to delete existing and create a new one: 
