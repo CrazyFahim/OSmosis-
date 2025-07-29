@@ -8,7 +8,6 @@ bits 16
 start:
     jmp main
 
-
 ;
 ; Prints a string to the screen
 ; Params:
