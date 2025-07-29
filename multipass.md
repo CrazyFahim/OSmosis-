@@ -20,7 +20,7 @@
 ### Choose a version or go with the default (latest LTS):
 	multipass launch --network <network-name> --name <instance-name>
 ### Or specify a version:
-	multipass launch 22.04 --name <instance-name>
+	multipass launch 22.04 --network <network-name> --name <instance-name>
 ### Check new instance: 
 	multipass list
 ### Access the New Instance.
